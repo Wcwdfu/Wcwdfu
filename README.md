@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/user-attachments/assets/fbecb6fa-dd6f-47fd-a68d-1944831b80d8" alt="바닷갈매기는 바다를 바라봐요" width="600">
+<img src="https://github.com/user-attachments/assets/fbecb6fa-dd6f-47fd-a68d-1944831b80d8" alt="바닷갈매기는 바다를 바라봐요" width="400">
 
 
 <!--
