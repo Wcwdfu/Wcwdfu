@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/546f349c-7165-4c61-9106-9c59241a30a6)
+
+
 <!--
 **Wcwdfu/Wcwdfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
