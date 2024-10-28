@@ -1,5 +1,6 @@
 ## Hi there 👋
 - i am fully 100% self-motivated person.
+- I strive for personal growth(as developer) because I want to work with great colleagues.
 
 <img src="https://github.com/user-attachments/assets/fbecb6fa-dd6f-47fd-a68d-1944831b80d8" alt="바닷갈매기는 바다를 바라봐요" width="400">
 
